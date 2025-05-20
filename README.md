@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on:Web apps, Beginner-friendly open Source projects, and tech communities
 - 📫 How to reach me:[Email](mail to:krishkumarchourasia08@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can debud Better at midnigh than during the day!
+- ⚡ Fun fact: I can debud Better at midnight than during the day!
 
 <!---
 Krish7857/Krish7857 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
